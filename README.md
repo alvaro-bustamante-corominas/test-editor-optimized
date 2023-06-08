@@ -1,2 +1,1 @@
-# test-editor-optimized
-Test editor optimized
+# Answer questions using ChatGPT API
