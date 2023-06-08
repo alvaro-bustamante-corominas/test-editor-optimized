@@ -9,7 +9,7 @@ openai.api_key = os.getenv("API_KEY")
 
 while True:
 
-  prompt = input("\n Introduce una pregunta: ")
+  prompt = input("\n Enter a question: ")
 
   if prompt == "exit":
     break
